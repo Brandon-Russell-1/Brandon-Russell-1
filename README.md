@@ -8,7 +8,7 @@
   - [Rust Password Cracker](https://github.com/Brandon-Russell-1/RustPasswordCracker)
   - [Nim Port Scanner](https://github.com/Brandon-Russell-1/NimPortScan)
   - [Nim Reverse Shell](https://github.com/Brandon-Russell-1/NimRevShell)
-  - [Website change monitor](https://github.com/Brandon-Russell-1/DiscordWebHashBot)
+  - [Website Change Discord Monitor](https://github.com/Brandon-Russell-1/DiscordWebHashBot)
 
 <h2>📺 Popular YouTube Videos</h2>
 
