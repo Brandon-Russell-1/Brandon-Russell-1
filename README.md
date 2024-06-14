@@ -14,7 +14,7 @@
 
 - [Make Your Own Camera](https://youtu.be/ZZYgWCMALDo)
 
-<h2>📺 Popular Medium Articles</h2>
+<h2>✍ Popular Medium Articles</h2>
 
 - [OSCP Prep](https://drbwiz.medium.com/l33t-916492c782c0)
 - [Creating a Linux CTF](https://drbwiz.medium.com/creating-a-vulnerable-linux-machine-for-a-capture-the-flag-ctf-challenge-bae81be72cd9)
