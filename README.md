@@ -12,23 +12,19 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Make Your Own Camera](https://youtu.be/ZZYgWCMALDo)
+- [Coming Soon]()
 
 <h2>✍ Popular Medium Articles</h2>
 
-- [OSCP Prep](https://drbwiz.medium.com/l33t-916492c782c0)
-- [Creating a Linux CTF](https://drbwiz.medium.com/creating-a-vulnerable-linux-machine-for-a-capture-the-flag-ctf-challenge-bae81be72cd9)
-
+- [My Medium](https://medium.com/@brandon.r.russell.1)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrandonRussell | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="BrandonRussell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BrandonRussell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BrandonRussell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/BwizLabs
-[youtube]: http://www.youtube.com/@bwizlabs
-[instagram]: https://www.instagram.com/drbwiz/
+[twitter]: https://x.com/Dr_BRussell
+[youtube]: https://www.youtube.com/@Dr.BrandonRussell
 [linkedin]: https://www.linkedin.com/in/brandon-r-russell/
 
