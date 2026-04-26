@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href="">Programmer</a>, <a href="">Cybersecurity Professional</a>, <a href="">Hacker</a></h1>
+<h1>Hi, I'm Brandon! <br/><a href="">Educator</a>, <a href="">Programmer</a>, <a href="">Cybersecurity Professional</a>, <a href="">Hacker</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
